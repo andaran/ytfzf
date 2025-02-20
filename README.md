@@ -219,3 +219,4 @@ change 1 from branch1
 change 2 from branch1
 change 3 from branch1
 branch1 -> change 1
+branch1 -> change 2
